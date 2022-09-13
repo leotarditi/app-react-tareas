@@ -1,0 +1,6 @@
+.tareas-list-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
